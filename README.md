@@ -2,7 +2,12 @@
 
 I'm Aaron Planta, a Fourth-year undergraduate student in Computer Science. :)
 
-## 💻 Experience with:
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/aaron-patrick-planta-72b853336)  
+- [Portfolio](https://yourportfolio.com)
+
+## Experience with:
 
 <p align="left">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
@@ -28,11 +33,6 @@ I'm Aaron Planta, a Fourth-year undergraduate student in Computer Science. :)
   </a>
 </p>
 
-## 🌐 Connect with Me
-
-- [LinkedIn](www.linkedin.com/in/aaron-patrick-planta-72b853336)  
-- [Portfolio](https://yourportfolio.com)
-
 ---
 
-Thank you for stopping by! Feel free to reach out if you’d like to collaborate on a project or just say hello. 😊
+Feel free to reach out if you’d like to collaborate on a project or just say hello. 😊
