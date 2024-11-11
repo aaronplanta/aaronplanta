@@ -1,8 +1,8 @@
 # Welcome to My GitHub Profile! 👋
 
-I'm [Your Name], a passionate developer with experience in building beautiful and functional web applications. Here’s a quick look at the technologies I work with:
+I'm Aaron Planta, a Fourth-year undergraduate student in Computer Science. :)
 
-## 💻 Tech Stack
+## 💻 Experience with:
 
 <p align="left">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
@@ -20,16 +20,17 @@ I'm [Your Name], a passionate developer with experience in building beautiful an
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
+  </a>
 </p>
-
-## 📈 GitHub Stats
-
-<!-- Optionally add GitHub stats with the following Markdown: -->
-<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) -->
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
+- [LinkedIn](www.linkedin.com/in/aaron-patrick-planta-72b853336)  
 - [Portfolio](https://yourportfolio.com)
 
 ---
